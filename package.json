@@ -1,0 +1,22 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "Ejercicio de la semana 3 BackEnd JS-Ejercicio de la semana 3 BackEnd JS-",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickMontesDK/spiderverse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickMontesDK/spiderverse/issues"
+  },
+  "homepage": "https://github.com/ErickMontesDK/spiderverse#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
