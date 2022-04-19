@@ -3,7 +3,7 @@ const Spiderman=require("./../app/spiderman")
 describe("Unit Tests for Spiderman class", () => {
     test('1) Create an spiderman object', () => {
     
-        //Codigo a ejecuat para la prueba
+        //Codigo a ejecutar para la prueba
       const andrewGarfield=new Spiderman ("The Amazing Spiderman",31,"Andrew Garfield",2,"Sony")
       
 
@@ -17,7 +17,7 @@ describe("Unit Tests for Spiderman class", () => {
     });
 
     test('2)Message from the spiderman',()=>{
-        //Creamos el objeto con los datos de Tom HOlland
+        //Creamos el objeto con los datos de Tom Holland
         const TomHolland=new Spiderman("MCU The Spiderman",25,"Tom Holland",3,"Marvel Studios")
 
         //Y escribimos lo que esperamos de resultado
